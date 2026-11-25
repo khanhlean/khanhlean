@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img alt="Le An Khanh — Software Engineer · Odoo ERP · DevOps · Applied AI" src="./assets/banner-light.svg" width="100%">
+    <img alt="Le An Khanh — Software Engineer · Applied AI &amp; ERP Systems" src="./assets/banner-light.svg" width="100%">
   </picture>
 
   <p>
@@ -14,9 +14,9 @@
 
 ---
 
-I am a **Software Engineer** working across **Odoo ERP**, **Linux / DevOps infrastructure**, and **applied AI integration**.
+I am a **Software Engineer** specializing in **Odoo ERP systems**, **applied AI integration**, and **Linux / DevOps infrastructure**.
 
-Most of my day-to-day work lives in private production systems — owning enterprise projects end-to-end from domain analysis and architecture design to backend engineering, network/security operations, and internal AI tooling.
+Most of my day-to-day work lives in private production systems — owning enterprise projects end-to-end from domain analysis and system design to backend engineering, network/security operations, and practical AI tooling.
 
 ### What I Build & Operate
 
@@ -36,6 +36,6 @@ Most of my day-to-day work lives in private production systems — owning enterp
 
 ### Currently Focusing On
 
-- Scaling maintainable **Odoo Solution Architecture** patterns for multi-company enterprise operations.
+- Designing maintainable **Odoo ERP architectures** for multi-company enterprise operations.
 - Building **MCP servers** and **agentic workflows** that connect LLMs safely to real ERP and internal knowledge systems.
 - Standardizing **DevOps, CI/CD, and security baselines** across self-hosted Linux and multi-site infrastructure.

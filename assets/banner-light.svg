@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="236" viewBox="0 0 1280 236" role="img" aria-label="Le An Khanh — Software Engineer · Odoo ERP · DevOps · Applied AI">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="236" viewBox="0 0 1280 236" role="img" aria-label="Le An Khanh — Software Engineer · Applied AI &amp; ERP Systems">
   <defs>
     <linearGradient id="bg-light" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#F8FAFC"/>
@@ -52,7 +52,7 @@
 
   <!-- Eyebrow -->
   <text x="122" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="700" letter-spacing="1.6" fill="#0284C7">
-    SOFTWARE ENGINEER · SOLUTION ARCHITECTURE
+    SOFTWARE ENGINEER · APPLIED AI &amp; ERP SYSTEMS
   </text>
 
   <!-- Name -->
@@ -62,6 +62,6 @@
 
   <!-- Subtitle -->
   <text x="68" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18.5" font-weight="400" fill="#475569">
-    Odoo ERP Architecture · Linux &amp; DevOps · Applied AI
+    Odoo ERP Systems · Applied AI &amp; MCP · Linux &amp; DevOps
   </text>
 </svg>
