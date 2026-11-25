@@ -28,7 +28,7 @@
 
 I am a **Software Engineer** specializing in **Odoo ERP**, **Python**, **Linux / DevOps infrastructure**, and **practical AI integration**.
 
-I work end-to-end across the full delivery lifecycle — from business analysis, technical design, and backend engineering to deployment, security hardening, and production operations — with a focus on **Solution Architecture** and **AI-augmented enterprise workflows**.
+I work end-to-end across the full delivery lifecycle — from business analysis, technical design, and backend engineering to deployment, security hardening, and production operations — with a focus on **Solution Architecture**, **digital transformation**, and **applied AI** for enterprise operations.
 
 ---
 
@@ -55,12 +55,12 @@ I work end-to-end across the full delivery lifecycle — from business analysis,
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4>AI Integration</h4>
+      <h4>Applied AI &amp; Digital Transformation</h4>
       <ul>
         <li>MCP servers &amp; agentic workflows</li>
         <li>RAG &amp; internal knowledge systems</li>
-        <li>LLM tooling &amp; process automation</li>
-        <li>Enterprise AI adoption &amp; training</li>
+        <li>Process digitization &amp; workflow automation</li>
+        <li>Enterprise AI adoption &amp; team enablement</li>
       </ul>
     </td>
   </tr>
